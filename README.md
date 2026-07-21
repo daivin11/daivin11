@@ -1,47 +1,47 @@
+# Olá, eu sou David Soares 👋
 
-<h3 align="center">Building Real-World Software Solutions 🚀<br><br>Hi, I'm David Soares.<br>Computer Science Student and Software Developer.</h3>
+Sou estudante de Ciência da Computação e desenvolvedor de software focado em transformar necessidades reais em aplicações web, APIs e automações.
 
-###
+Atualmente trabalho principalmente com **React, TypeScript, JavaScript, Node.js e Python**. Busco uma oportunidade como desenvolvedor júnior ou estagiário para contribuir com projetos reais, evoluir tecnicamente e gerar resultados para o time.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-</div>
+## Tecnologias
 
-###
+![Tecnologias](https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flask,tailwind,mysql,firebase,docker,git,github)
 
-<div align="center">
-  <a href="www.linkedin.com/in/davidsoares11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="daivin11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+## Projetos em destaque
 
-###
+### [BarberOS](https://github.com/daivin11/BarberOS)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=daivin11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+SaaS de gestão para barbearias com dashboard, agenda, clientes, serviços, controle financeiro e página pública de agendamento.
 
-###
+**Tecnologias:** React, Vite, Tailwind CSS e Firebase  
+🔗 [Ver demonstração](https://trimly-inky.vercel.app)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daivin11/daivin11/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daivin11/daivin11/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daivin11/daivin11/pacman-output/pacman-contribution-graph.svg">
-</picture>
+### [CashFlow](https://github.com/daivin11/CashFlow)
 
-###
+Sistema web para registrar e acompanhar operações financeiras, metas diárias, totais e histórico de movimentações.
+
+**Tecnologias:** Node.js, Express, HTML, CSS e JavaScript
+
+### [Lead Management API](https://github.com/daivin11/lead-management-api)
+
+API REST para gerenciamento de leads, com CRUD completo, validação, logging e arquitetura em camadas.
+
+**Tecnologias:** Python, Flask, SQLite e Docker
+
+### [MK Lash Studio](https://mk-lash-luxe-studio.vercel.app/)
+
+Site responsivo desenvolvido para um negócio local, com apresentação de serviços, galeria e integração com WhatsApp.
+
+**Tecnologias:** React, TypeScript, Vite e Tailwind CSS
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsoares11/)
+[![GitHub](https://img.shields.io/badge/GitHub-daivin11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daivin11)
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=daivin11&locale=pt_BR&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
